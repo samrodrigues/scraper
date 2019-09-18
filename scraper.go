@@ -11,7 +11,7 @@ import (
 
 func LegoScrape() {
 
-	key := "pzTVzoB2Nekr8GLZ4HJv3"
+	key := ""
 	ifttt := iftttWebhook.New(key)
 
 	// Request the HTML page.
